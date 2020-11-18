@@ -22,9 +22,7 @@
     </head>
     <body class="antialiased">
         <p>
-            welcome!
-            wew!
-            yow!
+            Changes in feature branch
         </p>
     </body>
 </html>
