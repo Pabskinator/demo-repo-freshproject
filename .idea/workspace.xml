@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="445f6198-c5db-48ed-8097-f33697cf0321" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +188,7 @@
       <workItem from="1605671865644" duration="11121000" />
       <workItem from="1605685574111" duration="2096000" />
       <workItem from="1605688290643" duration="9685000" />
+      <workItem from="1605782909410" duration="167000" />
     </task>
     <servers />
   </component>
@@ -246,9 +248,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="245" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605684170643" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605694388822">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605783070961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605694388822" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605783070961" />
   </component>
 </project>
